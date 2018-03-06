@@ -2,6 +2,6 @@ var playlist = {
   artistName: 'songTitle'
 };
 
-function updatePlaylist {
+function updatePlaylist() {
   
 }
